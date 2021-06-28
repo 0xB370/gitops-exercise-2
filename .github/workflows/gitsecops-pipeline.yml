@@ -1,4 +1,3 @@
-# testing
 name: DSOC-Hub GHA-CI
 on: [push]
 jobs:
